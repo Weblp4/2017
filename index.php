@@ -10,7 +10,8 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-          hola bienvenidos
+          hola bienvenidos lp4
+          
         <?php
         // put your code here
         ?>
